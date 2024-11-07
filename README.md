@@ -1,2 +1,5 @@
 # Fraudulent-transaction-detection-
-This is work in  progress because I'll also be applying deep learning conncepts soon as I keep learning.
+
+Developed a fraud detection model with high recall and 
+precision using LightGBM, SMOTE, and undersampling techniques, optimized by 
+adjusting threshold parameters.
